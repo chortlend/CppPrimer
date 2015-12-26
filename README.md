@@ -1,2 +1,2 @@
 # CppPrimer
-Cpp Primer projects
+Cpp Primer projects - learn how to code with C++
